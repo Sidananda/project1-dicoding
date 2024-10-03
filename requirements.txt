@@ -1,0 +1,6 @@
+File ini berisi daftar library yang digunakan dalam kode yaitu:
+
+streamlit
+pandas
+matplotlib
+seaborn
