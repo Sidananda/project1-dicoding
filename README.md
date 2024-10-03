@@ -18,4 +18,4 @@ cd ecommerce-analysis-dashboard
 pip install -r requirements.txt
 
 ## Run Streamlit App
-streamlit run dashboard.py
+streamlit run dashboard/dashboard.py
